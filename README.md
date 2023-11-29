@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning Typescript! **Udemy Course -> Typescript: The Complete Developer's Guide**
 
-- 👯 I’m looking to collaborate on test scripts! [tbd](tbd)
+- 👯 I’m looking to collaborate on test scripts powered by Typescript!
 
 - 🤝 I’m looking for help with test scripts built with Typescript. [Google_Books_Search](https://blurb-books.herokuapp.com/)
 
 - 👨‍💻 All of my projects are available at [https://sleepy-reaches-69699.herokuapp.com/](https://sleepy-reaches-69699.herokuapp.com/)
-
-- 📝 I regularly write articles on [tbd](tbd)
 
 - 💬 Ask me about **the MERN stack.**
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raseward14" alt="raseward14" /></a> </p>
 
-- 🔭 I’m currently working on a frontend app, that mirrors the ClickUp Automation modal. [Automation Finder]([https://github.com/raseward14/automation-finder])
+- 🔭 I’m currently working on a frontend app, that mirrors the ClickUp Automation modal. [Automation Finder](https://github.com/raseward14/automation-finder)
 
 - 🌱 I’m currently learning Angular and Typescript! **Udemy Course -> Angular - The Complete Guide (2025 Edition)**, **Udemy Course -> Typescript: The Complete Developer's Guide**
 

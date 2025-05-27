@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
-<h3 align="center">I'm a Full Stack web developer from Colorado.</h3>
+<h3 align="center">I'm a Software Engineer from Colorado.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raseward14&label=Profile%20views&color=0e75b6&style=flat" alt="raseward14" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raseward14" alt="raseward14" /></a> </p>
 
-- 🔭 I’m currently working on a full stack app, that queries a relational database. [Post_Run](https://github.com/raseward14/Post_Run)
+- 🔭 I’m currently working on a frontend app, that mirrors the ClickUp Automation modal. [Automation Finder]([https://github.com/raseward14/automation-finder])
 
-- 🌱 I’m currently learning Typescript! **Udemy Course -> Typescript: The Complete Developer's Guide**
+- 🌱 I’m currently learning Angular and Typescript! **Udemy Course -> Angular - The Complete Guide (2025 Edition)**, **Udemy Course -> Typescript: The Complete Developer's Guide**
 
-- 👯 I’m looking to collaborate on test scripts powered by Typescript!
+- 👯 I’m looking to collaborate on Angular and Typescript projects!
 
 - 🤝 I’m looking for help with test scripts built with Typescript. [Google_Books_Search](https://blurb-books.herokuapp.com/)
 
